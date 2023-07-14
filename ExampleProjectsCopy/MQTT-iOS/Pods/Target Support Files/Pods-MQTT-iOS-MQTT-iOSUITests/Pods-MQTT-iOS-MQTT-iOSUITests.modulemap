@@ -1,0 +1,6 @@
+framework module Pods_MQTT_iOS_MQTT_iOSUITests {
+  umbrella header "Pods-MQTT-iOS-MQTT-iOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

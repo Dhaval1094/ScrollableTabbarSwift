@@ -1,0 +1,6 @@
+framework module Pods_MQTT_iOS {
+  umbrella header "Pods-MQTT-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MQTT-iOS-MQTT-iOSUITests/Pods-MQTT-iOS-MQTT-iOSUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CocoaMQTT/CocoaMQTT.framework
+${BUILT_PRODUCTS_DIR}/MqttCocoaAsyncSocket/MqttCocoaAsyncSocket.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework

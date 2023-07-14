@@ -1,0 +1,34 @@
+stages:
+  - build
+  - archive
+  - upload
+variables:
+  release: "ios"
+  release_notes: "My release notes here..."
+  ProjectName: "BLEScanApp"
+  SchemeName: "BLEScanApp"
+
+build-job:
+  stage: build
+  script:
+    - xcodebuild clean -project $ProjectName.xcodeproj -scheme $SchemeName
+    - xcodebuild test -project $ProjectName.xcodeproj -scheme $SchemeName -destination 'platform=iOS Simulator,name=iPhone 14,OS=16.4'
+  tags:
+    - CI
+    - iOS
+
+archive-job:
+  stage: archive
+  script:
+    - xcodebuild clean archive -archivePath build/$ProjectName -scheme $SchemeName
+    - xcodebuild -exportArchive -archivePath "build/$ProjectName.xcarchive" -exportPath "build/$ProjectName.ipa" -exportOptionsPlist "ExportOptions.plist"
+  only:
+    - master
+  artifacts:
+    paths:
+      - build/$ProjectName.ipa
+#  rules:
+#    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+  tags:
+    - CI
+    - iOS

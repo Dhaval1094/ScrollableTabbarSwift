@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "27830991-9D5B-4CF9-90FA-D4724F1C68E5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2CE56F2-CA63-4119-BBA3-44E0301B50F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ActorsExample/Dinner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "makeDinner()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C2CE56F2-CA63-4119-BBA3-44E0301B50F1 - d14b10395786d052"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ActorsExample.Dinner.makeDinner() async throws -&gt; ActorsExample.Meal"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "C2CE56F2-CA63-4119-BBA3-44E0301B50F1 - ed9d8993365fe725"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for ActorsExample.Dinner.makeDinner() async throws -&gt; ActorsExample.Meal"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "C2CE56F2-CA63-4119-BBA3-44E0301B50F1 - 48398224447da14c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for ActorsExample.Dinner.makeDinner() async throws -&gt; ActorsExample.Meal"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00EE4C61-897A-4066-A795-5075244CF0C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ActorsExample/Dinner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "makeDinner()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "00EE4C61-897A-4066-A795-5075244CF0C6 - 48398224447da16b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for ActorsExample.Dinner.makeDinner() async throws -&gt; ActorsExample.Meal"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  uuid = "00EE4C61-897A-4066-A795-5075244CF0C6 - 39a7126f21b4a304"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) await resume partial function for ActorsExample.Dinner.makeDinner() async throws -&gt; ActorsExample.Meal"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "00EE4C61-897A-4066-A795-5075244CF0C6 - 2cfcf98e1b456d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ActorsExample.Dinner.makeDinner() async throws -&gt; ActorsExample.Meal"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D8119B0-9426-46D6-8557-048404507AF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ActorsExample/Dinner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "makeDinner()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D8119B0-9426-46D6-8557-048404507AF0 - 2cfcf98e1b428c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ActorsExample.Dinner.makeDinner() async throws -&gt; ActorsExample.Meal"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "149">
+               </Location>
+               <Location
+                  uuid = "4D8119B0-9426-46D6-8557-048404507AF0 - 8a68e4fb5c8278e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) await resume partial function for ActorsExample.Dinner.makeDinner() async throws -&gt; ActorsExample.Meal"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "4D8119B0-9426-46D6-8557-048404507AF0 - b8202eb3c8006e8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for ActorsExample.Dinner.makeDinner() async throws -&gt; ActorsExample.Meal"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "4D8119B0-9426-46D6-8557-048404507AF0 - ccd0f0683f25b881"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for ActorsExample.Dinner.makeDinner() async throws -&gt; ActorsExample.Meal"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A28692E-A3B2-493E-860E-424CBD158E43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ActorsExample/Dinner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "chopVegetables()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A28692E-A3B2-493E-860E-424CBD158E43 - 49dca993366c6c78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "125">
+               </Location>
+               <Location
+                  uuid = "9A28692E-A3B2-493E-860E-424CBD158E43 - 49dca993366c6c78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57DD6473-E8A2-4238-BF85-15D05D06B96C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ActorsExample/Dinner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "chopVegetables()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "57DD6473-E8A2-4238-BF85-15D05D06B96C - 49dca993366c6cf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "675">
+               </Location>
+               <Location
+                  uuid = "57DD6473-E8A2-4238-BF85-15D05D06B96C - 16b15d40732ed8ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "417">
+               </Location>
+               <Location
+                  uuid = "57DD6473-E8A2-4238-BF85-15D05D06B96C - 49dca993366c6cf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "57DD6473-E8A2-4238-BF85-15D05D06B96C - 16b15d40732ed8ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "410">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9D388BF-D029-4EAD-874B-A6FD18D9C191"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ActorsExample/Dinner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "prepareGravy()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B46FA479-1B5E-43DF-B04D-D8BBFCBFF166"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ActorsExample/Dinner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "preheatOven(temperature:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33349742-807B-4E29-9926-8AD2A05C1C88"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ActorsExample/Dinner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "chopVegetables()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33349742-807B-4E29-9926-8AD2A05C1C88 - 49dca993366c6c3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "462">
+               </Location>
+               <Location
+                  uuid = "33349742-807B-4E29-9926-8AD2A05C1C88 - 2afdfa0b910f0fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "33349742-807B-4E29-9926-8AD2A05C1C88 - 16b15d40732ed820"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "33349742-807B-4E29-9926-8AD2A05C1C88 - 7bffd4e81249ee25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "33349742-807B-4E29-9926-8AD2A05C1C88 - 7bffd4e81249ee25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  uuid = "33349742-807B-4E29-9926-8AD2A05C1C88 - 49dca993366c6c3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "401">
+               </Location>
+               <Location
+                  uuid = "33349742-807B-4E29-9926-8AD2A05C1C88 - 2afdfa0b910f0fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "33349742-807B-4E29-9926-8AD2A05C1C88 - 7bffd4e81249ee25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ActorsExample.Dinner.chopVegetables() async throws -&gt; Swift.Array&lt;ActorsExample.Vegetable&gt;"
+                  moduleName = "ActorsExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhavaltrivedi/Documents/GitHub/dhaval_trivedi_idp/ActorsExample/ActorsExample/Dinner.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

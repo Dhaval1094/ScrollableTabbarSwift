@@ -1,0 +1,6 @@
+sources:
+  - ../SourceryApp
+templates:
+  - ./Templates/AutoMockable.stencil
+output:
+  ../SourceryAppTests/Generated
